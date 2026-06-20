@@ -1,5 +1,5 @@
 # KeyDB - Bài tập lớn môn Hệ phân tán
-
+## link demo : https://www.youtube.com/watch?v=K_dYUlp50RY
 ## Giới thiệu
 
 Đây là bài tập lớn môn **Hệ phân tán**. Nhóm lựa chọn **KeyDB** làm dự án nghiên cứu nhằm tìm hiểu kiến trúc của hệ quản trị cơ sở dữ liệu dạng Key-Value và phát triển thêm các tính năng liên quan đến xử lý phân tán.
